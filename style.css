@@ -7,6 +7,17 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.image{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.br{
+    text-align: center;
+    font-size: 15px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
