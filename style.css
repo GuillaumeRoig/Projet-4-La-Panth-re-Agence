@@ -13,6 +13,11 @@ body {
     font-style: italic;
 }
 
+.image2{
+    text-align: center;
+    font-size: 22px;
+}
+
 .br{
     text-align: center;
     font-size: 15px;
@@ -755,6 +760,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size: 16px;
 }
 
 .portfolio-thumb {
@@ -771,7 +777,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(26, 25, 23, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
