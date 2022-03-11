@@ -72,7 +72,7 @@ a:hover {
 }
 
 .bloc-lg {
-    padding: 100px 50px;
+    padding: 176px 50px;
 }
 
 .bloc-md {
@@ -344,7 +344,7 @@ a:hover {
 
 .navbar .nav {
     padding-top: 2px;
-    margin-right: -16px;
+    margin-right: 100px;
     float: right;
     z-index: 1;
 }
@@ -353,6 +353,7 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    padding-right: 50px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
