@@ -30,6 +30,10 @@ body {
     align-items: center;
 }
 
+.end span{
+    margin-right: 28px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
