@@ -780,8 +780,14 @@ h4 {
     font-size: 16px;
 }
 
+.col-sm-6 a{
+    display: flex;
+    justify-content: center;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 320px;
 }
 
 .portfolio-row {
